@@ -8,6 +8,4 @@ print(c)
 
 print("Sample message")
 
-print("Another sample message")
-
 print("abc123")
