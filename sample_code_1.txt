@@ -11,3 +11,5 @@ print("Sample message")
 print("Another sample message")
 
 print("abc123")
+
+d = c * a * b
